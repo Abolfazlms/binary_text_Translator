@@ -92,6 +92,3 @@ MIT License — you are free to use, modify, and distribute this program.
 ---
 
 Made with ❤️ in C for learning character encoding and binary operations. Perfect for beginners exploring recursion and ASCII in C! 
-
-می‌خوای اون نسخه رو هم آماده کنم؟
-```
