@@ -93,11 +93,3 @@ MIT License — free to use, modify, and distribute.
 
 Made with ❤️ and many late-night coding sessions by a hardware and Tycoon game enthusiast.
 Now it’s your turn to build a computer company that challenges Intel and AMD! 🚀
-
-```
-
-✅ نکات حرفه‌ای:  
-- همه تیترها و بخش‌ها مرتب و استاندارد Markdown شدند.  
-- Badges برای زبان، پلتفرم و لایسنس اضافه شد.  
-- Gameplay و راهنمای سریع به صورت واضح و انگلیسی توضیح داده شد.  
-- بخش توسعه و همکاری تشویق‌کننده برای Pull Request و Contribution است.  
